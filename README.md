@@ -5,7 +5,7 @@ Assignments for Spring 2017 CS231n: Convolutional Neural Networks for Visual Rec
 I've been working on this assignments. I've written out below the progress of each small parts of an assignment.
 Thank you for going this awesome lecture public to Stanford univ.
 
-Find course notes and assignments <a href="http://cs231n.stanford.edu/2017/">here</a> and be sure to check out video lectrues for Winter 2016 and Spring 2017!
+Find course notes and assignments <a href="http://cs231n.stanford.edu/2017/">here</a> and be sure to check out video lectrues for <a href="http://cs231n.stanford.edu/2017/">Winter 2016</a> and <a href="http://cs231n.stanford.edu/2017/">Spring 2017</a>!
 
 # Assignment 1:
 * Q1: k-Nearest Neighbor classifier. (Done)
