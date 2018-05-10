@@ -1,6 +1,6 @@
 # CS231n (Spring 2017) Assignment Solutions
 
-Assignments for Spring 2017 CS231n: Convolutional Neural Networks for Visual Recognition.
+Assignments for Spring 2017 CS231n: <a href="http://cs231n.stanford.edu/2017/">Convolutional Neural Networks for Visual Recognition</a>.
 
 I've been working on this assignments. I've written out below the progress of each small parts of an assignment.
 Thank you for going this awesome lecture public to Stanford univ.
