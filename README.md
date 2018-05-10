@@ -7,6 +7,7 @@ I've been working on this assignments. I've written out below the progress of ea
 * Thank you for Stanford university open this awesome lecture to public
 
 * Find course notes and assignments <a href="http://cs231n.stanford.edu/2017/">here</a> and be sure to check out video lectrues for <a href="http://cs231n.stanford.edu/2017/">Winter 2016</a> and <a href="http://cs231n.stanford.edu/2017/">Spring 2017</a>!
+* And Its latest CS231N(2018 Spring) lecture seems like to be open soon! Keep an eye on its <a href="http://cs231n.stanford.edu/2018/">website</a>
 
 ## Assignment 1:
 * Q1: k-Nearest Neighbor classifier. (Done)
